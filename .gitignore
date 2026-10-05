@@ -1,0 +1,6 @@
+.runtime/
+data/
+*.log
+node_modules/
+*.xlsx
+.claude/

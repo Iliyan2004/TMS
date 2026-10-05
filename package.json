@@ -1,0 +1,9 @@
+{
+  "name": "gis-team-tasks",
+  "version": "1.0.0",
+  "description": "Task management for a GIS team (zero dependencies, Node + built-in SQLite)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=22.5" },
+  "private": true
+}
